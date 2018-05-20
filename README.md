@@ -28,13 +28,13 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 1. El canal debe tener al menos 60 suscriptores.
 
 
-¿COMO UNO MI CANAL A LA BOTONERA?
+## ¿COMO UNO MI CANAL A LA BOTONERA?
 
 1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos: **Publicar mensajes**
     
     ![Permisos necesarios](/media/permisos_labotonera_bot.PNG)
 
-2. Reenviar un mensaje que solo contenga texto al grupo La botonera -https://t.me/LaBotonera-. De esta manera,
+2. Reenviar un mensaje que solo contenga **solo texto** preferentemente al grupo [**La botonera**](https://t.me/LaBotonera) https://t.me/LaBotonera. Este mensaje no debe proceder de otro reenvío, debe ser un mensaje publicado directamente sobre el canal a registrar.  De esta manera,
 nuestro canal quedará asociado.
 
 
