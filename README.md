@@ -65,20 +65,31 @@ Si el canal no es público, no tendrá alias, en ese caso hay que usar un pseudo
 /mis_canales
 ```
 
+Igualmente puedes **desactivar tu participación** con el comando:
+```
+/noparticipo alias_del_canal
+```
+
+Una vez que se activa **/participo** o **/noparticipo** es efectivo para las siguientes botoneras, sin necesidad de ejecutar el comando para cada botonera.
+
 # ¿Que otros comandos existen?
 
 Por ahora se han implementado los siguientes comandos:
 
 ## Comandos para usuarios
 ```
-
+    /participo alias_del_canal
+    /noparticipo alias_del canal
+    /mis_canales
+    /registrar_boton @alias_del_canal "Texto boton" = "Url boton"
 ```
-UNA SEMANA EN CONCRETO NO QUIERO PARTICIPAR ¿QUE HAGO?
 
-Una vez a la semana siempre antes del día de publicación de La Botonera debes indicar al sistema que quieres participar,
-si no se lo indicas, no te tendrá en cuenta para La Botonera de esa semana.
-
-Comando a usar: /participo nombre_del_canal
+## Comandos para administradores
+```
+    /publish
+    /delete
+    /muestra_botoneras
+```
 
 
 # Normas Generales y penalizaciones
