@@ -28,14 +28,16 @@ Requisitos que se deben cumplir para unirse a La Botonera:
     - Editar mensajes
     - Eliminar mensajes
 
-2. 
+2. Reenviar un mensaje que solo contenga texto al grupo La botonera -https://t.me/LaBotonera-. De esta manera,
+nuestro canal quedará asociado.
 
+¿Como creo mi botón?
 
+La creación y el registro del botón se realiza en la misma orden:
+/registrar_boton@labotonera_bot @nombre_del_canal "texto_del_boton" = "https://t.me/nombre_del_canal"
 
+Las comillas obligatorias.
 
+nombre_del_canal: Nombre que tiene nuestro canal.
+texto_del_boton: Texto que aparecerá dentro del botón cuando se publique.
 
-
-Registrar canal:
-
-
-Registrar botón:
