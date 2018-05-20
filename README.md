@@ -2,7 +2,7 @@
 “La botonera” es un conjunto de botones que redireccionan cada uno a su canal.
 Como bien dicen, una imagen vale más que mil palabras, por ello aquí tienes un ejemplo gráfico:
 
-![GitHub Logo](/media/botonera.png)
+![La Botonera](/media/botonera.png)
 
 La botonera se publicará y eliminará automáticamente en los canales asociados y correctamente registrados.
 
@@ -20,20 +20,19 @@ Las botoneras se publicarán a la vez, cada una en su grupo de canales correspon
 las visualizaciones requeridas pasará a la botonera número 1, en caso de perderlas pasará a la botonera 2. El cambio de 
 botonera se aplicará en la siguiente semana hábil en la cual se publique La Botonera.
 
-La franja horaria en la que estará publicada la botonera queda reflejado en el grupo que realiza la botonera. Suele ser en horario noctorno, tomando como referencia desde 21.00h (9:00 PM) hasta las 09:00h (9:00 AM) hora Española (GMT+1).
+La franja horaria en la que estará publicada la botonera queda reflejado en el grupo que realiza la botonera. Suele ser en horario nocturno, tomando como referencia desde 21.00h (9:00 PM) hasta las 09:00h (9:00 AM) hora Española (GMT+1).
 
 
-REQUISITOS PARA UNIRSE A LA BOTONERA
+# Requisitos para unirse a la botonera
 
 1. El canal debe tener al menos 60 suscriptores.
 
 
 ¿COMO UNO MI CANAL A LA BOTONERA?
 
-1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos:
-    - Publicar mensajes
-    - Editar mensajes
-    - Eliminar mensajes
+1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos: **Publicar mensajes**
+    
+    ![Permisos necesarios](/media/permisos_labotonera_bot.PNG)
 
 2. Reenviar un mensaje que solo contenga texto al grupo La botonera -https://t.me/LaBotonera-. De esta manera,
 nuestro canal quedará asociado.
