@@ -15,13 +15,20 @@ Ambas botoneras se publicarán a la vez, cada una en su grupo de canales corresp
 las visualizaciones requeridas pasará a la botonera número 1, en caso de perderlas pasará a la botonera 2. El cambio de 
 botonera se aplicará en la siguiente semana hábil en la cual se publique La Botonera.
 
+
 Requisitos que se deben cumplir para unirse a La Botonera:
 
-El canal debe tener al menos 60 suscriptores.
+1. El canal debe tener al menos 60 suscriptores.
 
 
 ¿Como uno mi canal a La Botonera?
 
+1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos:
+    - Publicar mensajes
+    - Editar mensajes
+    - Eliminar mensajes
+
+2. 
 
 
 
