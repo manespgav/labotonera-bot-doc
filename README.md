@@ -25,7 +25,7 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 # Requisitos para unirse a la botonera
 
-1. El canal debe tener al menos 60 suscriptores.
+1. El canal debe tener al menos **60 suscriptores**. Requisitos especiales puede ser solicitados en cada grupo que organiza la botonera.
 
 
 # ¿COMO UNO MI CANAL A LA BOTONERA?
@@ -37,7 +37,7 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 2. Reenviar un mensaje que solo contenga **solo texto** preferentemente al grupo [**La botonera**](https://t.me/LaBotonera) https://t.me/LaBotonera. Este mensaje no debe proceder de otro reenvío, debe ser un mensaje publicado directamente en el canal que se pretende registrar. Realizando esto, nuestro canal quedará asociado.
 
 
-# ¿COMO CREO O MODIFICO MI BOTÓN?
+# ¿Cómo creo o modifico mi botón?
 
 La creación o modificación y el registro del botón se realiza con la misma orden, la cual se debe enviar al grupo que organiza la botonera:
  ```
