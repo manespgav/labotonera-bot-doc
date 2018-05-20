@@ -25,7 +25,7 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 # Requisitos para unirse a la botonera
 
-1. El canal debe tener al menos **60 suscriptores**. Requisitos especiales puede ser solicitados en cada grupo que organiza la botonera.
+1. El canal debe tener al menos **60 suscriptores**. Requisitos especiales pueden ser solicitados en cada grupo que organiza la botonera.
 
 
 # ¿COMO UNO MI CANAL A LA BOTONERA?
