@@ -39,27 +39,53 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 # ¿COMO CREO O MODIFICO MI BOTÓN?
 
-La creación o modificación y el registro del botón se realiza en la misma orden:
+La creación o modificación y el registro del botón se realiza con la misma orden, la cual se debe enviar al grupo que organiza la botonera:
+ ```
+ /registrar_boton@labotonera_bot @alias_del_canal "texto_del_boton" = "https://t.me/nombre_del_canal"
+ ```
+Las comillas son obligatorias y los espacios hay que respetarlos.
+
+* alias_del_canal: Alias de nuestro canal. Respeta las mayúsculas y minúsculas del alias de tu canal. (CASE SENSITIVE). 
+* texto_del_boton: Texto que aparecerá dentro del botón cuando se publique.
+
+Si el canal no es público, no tendrá alias, en ese caso hay que usar un pseudo-alias. Para consultar el pseudo-alias asignado, puedes ejecutar la siguiente orden en el grupo:
 ```
-    /registrar_boton@labotonera_bot @nombre_del_canal "texto_del_boton" = "https://t.me/nombre_del_canal"
+/mis_canales
 ```
-Las comillas son obligatorias.
 
-nombre_del_canal: Nombre que tiene nuestro canal.
-texto_del_boton: Texto que aparecerá dentro del botón cuando se publique.
+# ¿Cómo activo mi botón?
 
-Para modificar el botón simplemente registrarlo de nuevo.
+Una vez registrado tu canal, y con tu botón creado, solo te queda activarlo. Para ello debes usar el siguiente comando el grupo que organiza la botonera:
 
+```
+/participo alias_del_canal
+```
+Si el canal no es público, no tendrá alias, en ese caso hay que usar un pseudo-alias. Para consultar el pseudo-alias asignado, puedes ejecutar la siguiente orden en el grupo:
+```
+/mis_canales
+```
 
-PENALIZACIONES
+# ¿Que otros comandos existen?
 
-1. No está permitida la publicación de ningún mensaje en el canal mientras dure visible La Botonera. En caso de producirse,
-se penalizará con un warn. Tres warn significarán la expulsión definitiva de La Botonera.
+Por ahora se han implementado los siguientes comandos:
 
+## Comandos para usuarios
+```
 
+```
 UNA SEMANA EN CONCRETO NO QUIERO PARTICIPAR ¿QUE HAGO?
 
 Una vez a la semana siempre antes del día de publicación de La Botonera debes indicar al sistema que quieres participar,
 si no se lo indicas, no te tendrá en cuenta para La Botonera de esa semana.
 
 Comando a usar: /participo nombre_del_canal
+
+
+# Normas Generales y penalizaciones
+
+1. No está permitida la publicación de ningún mensaje en el canal mientras dure visible **La Botonera**. En caso de producirse y detectarse se penalizará con un warn. Tres warn significarán la **expulsión definitiva** de **La Botonera**.
+1. No se puede eliminar la botonera de forma manual. Se asume que esta acción ha sido intencionada con el único objetivo de beneficiarse del resto de usuarios. Esta acción conlleva la **expulsión definitiva**.
+1. No se permite **COMPARTIR** el mensaje de la botonera en ningún canal o grupo. Si se detecta, **podría ser expulsado permanentemente**
+
+
+
