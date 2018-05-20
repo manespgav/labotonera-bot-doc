@@ -35,15 +35,17 @@ REQUISITOS PARA UNIRSE A LA BOTONERA
 nuestro canal quedará asociado.
 
 
-¿COMO CREO MI BOTÓN?
+¿COMO CREO O MODIFICO MI BOTÓN?
 
-La creación y el registro del botón se realiza en la misma orden:
+La creación o modificación y el registro del botón se realiza en la misma orden:
 /registrar_boton@labotonera_bot @nombre_del_canal "texto_del_boton" = "https://t.me/nombre_del_canal"
 
 Las comillas son obligatorias.
 
 nombre_del_canal: Nombre que tiene nuestro canal.
 texto_del_boton: Texto que aparecerá dentro del botón cuando se publique.
+
+Para modificar el botón simplemente registralo de nuevo.
 
 
 PENALIZACIONES
