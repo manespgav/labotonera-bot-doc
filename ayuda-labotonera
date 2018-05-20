@@ -50,3 +50,12 @@ PENALIZACIONES
 
 1. No está permitida la publicación de ningún mensaje en el canal mientras dure visible La Botonera. En caso de producirse,
 se penalizará con un warn. Tres warn significarán la expulsión definitiva de La Botonera.
+
+
+UNA SEMANA EN CONCRETO NO QUIERO PARTICIPAR ¿QUE HAGO?
+
+Una vez a la semana siempre antes del día de publicación de La Botonera debes indicar al sistema que quieres participar,
+si no se lo indicas, no te tendrá en cuenta para La Botonera de esa semana.
+
+Comando a usar: /participo nombre_del_canal
+
