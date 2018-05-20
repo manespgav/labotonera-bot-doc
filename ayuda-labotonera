@@ -9,7 +9,8 @@ momento dado.
 
 En este momento existen 2 botoneras. La primera agrupa los canales que consiguen más de 250 visualizaciones. La segunda 
 botonera agrupa los canales que tienen menos de 250 visualizaciones. En ambos casos se toma como referencia la semana 
-anterior a la publicación de la botonera.
+anterior a la publicación de la botonera. En el momento que sea necesario crear más botoneras los cortes por visualización
+se establecerán en ese momento y se actualizará esta información.
 
 Ambas botoneras se publicarán a la vez, cada una en su grupo de canales correspondiente. Si un usuario consigue sobrepasar 
 las visualizaciones requeridas pasará a la botonera número 1, en caso de perderlas pasará a la botonera 2. El cambio de 
@@ -30,6 +31,7 @@ Requisitos que se deben cumplir para unirse a La Botonera:
 
 2. Reenviar un mensaje que solo contenga texto al grupo La botonera -https://t.me/LaBotonera-. De esta manera,
 nuestro canal quedará asociado.
+
 
 ¿Como creo mi botón?
 
