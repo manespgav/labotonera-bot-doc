@@ -16,12 +16,11 @@ Los canales asociados y registrados se agrupan en "Botoneras", en función de la
 
 En este momento existen 2 botoneras. La primera agrupa los canales que consiguen con más visualizaciones (~250 visualizaciones). La segunda botonera agrupa los canales que tienen menos. No obstante, esto puede cambiar en cualquier momento.
 
-
 Las botoneras se publicarán a la vez, cada una en su grupo de canales correspondiente. Si un usuario consigue sobrepasar 
 las visualizaciones requeridas pasará a la botonera número 1, en caso de perderlas pasará a la botonera 2. El cambio de 
 botonera se aplicará en la siguiente semana hábil en la cual se publique La Botonera.
 
-La botonera se publicará en los canales asociados a las 21.00 (9:00 PM) y desaparecerá a las 09:00 (9:00 AM) Hora Española.
+La franja horaria en la que estará publicada la botonera queda reflejado en el grupo que realiza la botonera. Suele ser en horario noctorno, tomando como referencia desde 21.00h (9:00 PM) hasta las 09:00h (9:00 AM) hora Española (GMT+1).
 
 
 REQUISITOS PARA UNIRSE A LA BOTONERA
