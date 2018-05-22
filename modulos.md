@@ -1,4 +1,4 @@
-# Lista de funciones implementadas en LaBotonera_BOT
+# Lista de modulos desarrollados en LaBotonera_BOT
 
 ## publish
   Autopublica en los canales participantes de la botonera bajo la orden del administrador
