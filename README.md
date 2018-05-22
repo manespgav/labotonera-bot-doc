@@ -82,6 +82,7 @@ Por ahora se han implementado los siguientes comandos:
     /noparticipo alias_del canal
     /mis_canales
     /registrar_boton @alias_del_canal "Texto boton" = "Url boton"
+    /ayuda (/help, alias de /ayuda)
 ```
 
 ## Comandos para administradores
