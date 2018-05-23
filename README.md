@@ -98,6 +98,7 @@ Por ahora se han implementado los siguientes comandos:
 1. No está permitida la publicación de ningún mensaje en el canal mientras dure visible **La Botonera**. En caso de producirse y detectarse se penalizará con un warn. Tres warn significarán la **expulsión definitiva** de **La Botonera**.
 1. No se puede eliminar la botonera de forma manual. Se asume que esta acción ha sido intencionada con el único objetivo de beneficiarse del resto de usuarios. Esta acción conlleva la **expulsión definitiva**.
 1. No se permite **COMPARTIR** el mensaje de la botonera en ningún canal o grupo. Si se detecta, **podría ser expulsado permanentemente**
+1. Está totalmente **prohibido** utilizar el grupo para copiar el contenido de los participantes, la detección de contenido copiado puede acarrear la **expulsión permanente** del grupo. 
 
 
 
