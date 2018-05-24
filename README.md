@@ -60,7 +60,7 @@ Una vez registrado tu canal, y con tu botón creado, solo te queda activarlo. Pa
 ```
 /participo alias_del_canal
 ```
-Si el canal no es público, no tendrá alias, en ese caso hay que usar un pseudo-alias. Para consultar el pseudo-alias asignado, puedes ejecutar la siguiente orden en el grupo:
+En este comando el alias del canal se escribe sin @. Si el canal no es público, no tendrá alias, en ese caso hay que usar un pseudo-alias. Para consultar el pseudo-alias asignado, puedes ejecutar la siguiente orden en el grupo:
 ```
 /mis_canales
 ```
