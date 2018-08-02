@@ -27,6 +27,7 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 1. El canal debe tener al menos **100 suscriptores**, aunque podría variar en el tiempo y según que botonera. Otros requisitos especiales pueden ser solicitados en cada grupo que organiza la botonera.
 1. El canal no puede contener temática pornográfica.
+1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
 
 
 # ¿COMO UNO MI CANAL A LA BOTONERA?
