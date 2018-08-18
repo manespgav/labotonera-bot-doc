@@ -25,6 +25,7 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 # Requisitos para unirse a la botonera
 
+1. No se permite la participación de grupos, solo de canales.
 1. El canal debe tener al menos **100 suscriptores**, aunque podría variar en el tiempo y según que botonera. Otros requisitos especiales pueden ser solicitados en cada grupo que organiza la botonera.
 1. El canal no puede contener temática pornográfica.
 1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
@@ -85,6 +86,7 @@ Por ahora se han implementado los siguientes comandos:
     /mis_canales
     /registrar_boton @alias_del_canal "Texto boton" = "Url boton"
     /ayuda (/help, alias de /ayuda)
+    /enlace_privado alias_del_canal
 ```
 
 ## Comandos para administradores
@@ -92,6 +94,8 @@ Por ahora se han implementado los siguientes comandos:
     /publish
     /delete
     /muestra_botoneras
+    /informe_vistas
+    /update_vistas
 ```
 
 
