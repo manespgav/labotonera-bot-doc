@@ -45,7 +45,7 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 # ¿COMO UNO MI CANAL A LA BOTONERA?
 
-1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos: **Publicar mensajes**
+1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos: **Publicar mensajes, Añadir usuarios**
     
     ![Permisos necesarios](/media/permisos_labotonera_bot.PNG)
 
