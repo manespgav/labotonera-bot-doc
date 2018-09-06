@@ -1,10 +1,19 @@
-# ¿Qué es la botonera?
-“La botonera” es un conjunto de botones que redireccionan cada uno a su canal.
+# ¿Qué es una botonera?
+“Una botonera” es un conjunto de botones que redireccionan cada uno a su canal.
 Como bien dicen, una imagen vale más que mil palabras, por ello aquí tienes un ejemplo gráfico:
 
 ![La Botonera](/media/botonera.png)
 
-La botonera se publicará y eliminará automáticamente en los canales asociados y correctamente registrados.
+# ¿Qué es "La Botonera"?
+La Botonera es un grupo que realiza botoneras de forma automática. Esto es, la botonera se publicará y se eliminará automáticamente de los canales que estén correctamente asociados y con la participación activa.
+"La Botonera" cuenta con características que ningún otro grupo que realice botoneras tiene, entre las cuales se pueden destacar:
+
+1. Gestión propia de tu botón en la botonera.
+1. Gestión propia de tu participación.
+1. Capacidad de protección de tu canal frente a usuarios no deseados, como copiadores de contenidos o userbots
+1. Publicación y eliminación automática
+1. Informe de crecimiento al finalizar la botonera.
+1. Los canales se ordenan automáticamente para la siguiente botonera en función de las vistas realizadas.
 
 # ¿Cuando se hace?
 
@@ -87,6 +96,8 @@ Por ahora se han implementado los siguientes comandos:
     /registrar_boton @alias_del_canal "Texto boton" = "Url boton"
     /ayuda (/help, alias de /ayuda)
     /enlace_privado alias_del_canal
+    /mis_canales
+    /protección
 ```
 
 ## Comandos para administradores
