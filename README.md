@@ -14,6 +14,8 @@ La Botonera es un grupo que realiza botoneras de forma automática. Esto es, la 
 1. Publicación y eliminación automática
 1. Informe de crecimiento al finalizar la botonera.
 1. Los canales se ordenan automáticamente para la siguiente botonera en función de las vistas realizadas.
+1. Si un usuario elimina la botonera de su canal, su botón desaparece casi en tiempo real del resto de canales, por lo que no podría aprovecharse de publicidad gratuita.
+
 
 # ¿Cuando se hace?
 
