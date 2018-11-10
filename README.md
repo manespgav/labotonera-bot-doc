@@ -117,7 +117,7 @@ Por ahora se han implementado los siguientes comandos:
 
 1. No está permitida la publicación de ningún mensaje en el canal mientras dure visible **La Botonera**. En caso de producirse y detectarse se penalizará con un warn. Tres warn significarán la **expulsión definitiva** de **La Botonera**.
 1. No se puede eliminar la botonera de forma manual. Se asume que esta acción ha sido intencionada con el único objetivo de beneficiarse del resto de usuarios. Esta acción conlleva la **expulsión definitiva**.
-1. No se permite **COMPARTIR** el mensaje de la botonera en ningún canal o grupo. Si se detecta, **podría ser expulsado permanentemente**
+1. No se permite **COMPARTIR** el mensaje de la botonera en ningún canal o grupo. Si se detecta, **podría ser expulsado permanentemente**, al igual que no se permite hacer publicidad en grupos de SPAM o canales desde **dos horas** antes del comienzo hasta la finalización de la misma.
 1. Está totalmente **prohibido** utilizar el grupo para copiar el contenido de los participantes, la detección de contenido copiado puede acarrear la **expulsión permanente** del grupo. 
 1. Si has recibido un warn, deberás publicar la botonera de tu grupo durante una noche de un día que no sea la botonera. En caso contrario, no podrías participar en la siguiente botonera.
 1. Los usuarios nuevos deben publicar, antes de participar, la botonera de los canales más pequeños durante una noche. Esto se hace a modo de "fianza" por posibles problemas futuros.
