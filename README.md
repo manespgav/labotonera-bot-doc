@@ -124,9 +124,10 @@ Por ahora se han implementado los siguientes comandos:
 
 
 # F.A.Q (Preguntas y respuestas frecuentes
-<b>1. Mi canal no aparece en la lista de botones. ¡Estoy haciendo publicidad gratis!</b>
+<b>Mi canal no aparece en la lista de botones. ¡Estoy haciendo publicidad gratis!</b>
 No, no estas haciendo publicidad gratis, lo que ocurre es que tu botón se elimina de tu canal para optimizar la botonera, ya que tu botón dirige a tu canal
-<b>1. Tengo la participación activa, cuando pido /mis_canales, tengo el canal con el tick en verde, pero no se ha publicado</b>
+
+<b>Tengo la participación activa, cuando pido /mis_canales, tengo el canal con el tick en verde, pero no se ha publicado</b>
 Una de las mejoras que tiene la botonera, es que si un canal no está activo en los últimos días, no particpará en la botonera, esto es para evitar la participación de canales que no tienen actividad.
 
 
