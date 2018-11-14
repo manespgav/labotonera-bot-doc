@@ -123,4 +123,8 @@ Por ahora se han implementado los siguientes comandos:
 1. Los usuarios nuevos deben publicar, antes de participar, la botonera de los canales más pequeños durante una noche. Esto se hace a modo de "fianza" por posibles problemas futuros.
 
 
+# F.A.Q (Preguntas y respuestas frecuentes
+1. Mi canal no aparece en la lista de botones ¡Estoy haciendo publicidad gratis!
+    No, no estas haciendo publicidad gratis, lo que ocurre es que tu botón se elimina de tu canal para optimizar la botonera, ya que tu botón dirige a tu canal
+
 
