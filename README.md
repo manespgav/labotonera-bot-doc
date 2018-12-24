@@ -39,8 +39,7 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 1. No se permite la participación de grupos, solo de canales.
 1. El canal debe tener al menos **100 suscriptores**, aunque podría variar en el tiempo y según que botonera. Otros requisitos especiales pueden ser solicitados en cada grupo que organiza la botonera.
-1. El canal no puede contener temática pornográfica.
-1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
+
 
 
 # ¿COMO UNO MI CANAL A LA BOTONERA?
@@ -120,7 +119,8 @@ Por ahora se han implementado los siguientes comandos:
 1. No se permite **COMPARTIR** el mensaje de la botonera en ningún canal o grupo. Si se detecta, **podría ser expulsado permanentemente**, al igual que no se permite hacer publicidad en grupos de SPAM o canales desde **dos horas** antes del comienzo hasta la finalización de la misma.
 1. Está totalmente **prohibido** utilizar el grupo para copiar el contenido de los participantes, la detección de contenido copiado puede acarrear la **expulsión permanente** del grupo. 
 1. Si has recibido un warn, deberás publicar la botonera de tu grupo durante una noche de un día que no sea la botonera. En caso contrario, no podrías participar en la siguiente botonera.
-1. Los usuarios nuevos deben publicar, antes de participar, la botonera de los canales más pequeños durante una noche. Esto se hace a modo de "fianza" por posibles problemas futuros.
+1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
+1. El texto de los botones no debe ser engañoso, y debe reflejar el contenido del canal.
 
 
 # F.A.Q (Preguntas y respuestas frecuentes)
