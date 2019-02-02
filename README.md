@@ -67,24 +67,16 @@ Si el canal no es público, no tendrá alias, en ese caso hay que usar un pseudo
 /mis_canales
 ```
 
-# ¿Cómo activo mi botón?
+# ¿Cómo activo o desactivo mi botón?
 
 Una vez registrado tu canal, y con tu botón creado, solo te queda activarlo. Para ello debes usar el siguiente comando el grupo que organiza la botonera:
 
 ```
-/participo alias_del_canal
-```
-En este comando el alias del canal se escribe sin @. Si el canal no es público, no tendrá alias, en ese caso hay que usar un pseudo-alias. Para consultar el pseudo-alias asignado, puedes ejecutar la siguiente orden en el grupo:
-```
 /mis_canales
 ```
 
-Igualmente puedes **desactivar tu participación** con el comando:
-```
-/noparticipo alias_del_canal
-```
 
-Una vez que se activa **/participo** o **/noparticipo** es efectivo para las siguientes botoneras, sin necesidad de ejecutar el comando para cada botonera.
+Una vez que se activado o desactivado el canal es **efectivo para las siguientes botoneras** hasta que sea nuevamente cambiado este estado.
 
 # ¿Que otros comandos existen?
 
@@ -92,8 +84,6 @@ Por ahora se han implementado los siguientes comandos:
 
 ## Comandos para usuarios
 ```
-    /participo alias_del_canal
-    /noparticipo alias_del canal
     /mis_canales
     /registrar_boton @alias_del_canal "Texto boton" = "Url boton"
     /ayuda (/help, alias de /ayuda)
