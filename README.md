@@ -26,7 +26,7 @@ El día establecido de publicación de **La Botonera** se define en el grupo que
 
 Los canales asociados y registrados se agrupan en "Botoneras", en función de las vistas que se realizan en la botonera anteriormente realizada. Un canal nuevo, por tanto, aparecerá en la botonera de menos visualizaciones.
 
-En este momento existen 2 botoneras. La primera agrupa los canales que consiguen con más visualizaciones (~250 visualizaciones). La segunda botonera agrupa los canales que tienen menos. No obstante, esto puede cambiar en cualquier momento.
+Los botones de las botoneras se ordenand en función de las vistas realizadas en la ultima participación que hizo en ese mismo día, y se agrupan los canales en bloques de entre 9 y 11 canales normalmente.
 
 Las botoneras se publicarán a la vez, cada una en su grupo de canales correspondiente. Si un usuario consigue sobrepasar 
 las visualizaciones requeridas pasará a la botonera número 1, en caso de perderlas pasará a la botonera 2. El cambio de 
