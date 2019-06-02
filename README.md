@@ -84,7 +84,7 @@ Por ahora se han implementado los siguientes comandos:
 ## Comandos para usuarios
 ```
     /mis_canales
-    /registrar_boton @alias_del_canal "Texto boton" = "Url boton"
+    /registrar_boton @alias_del_canal Texto boton 
     /ayuda (/help, alias de /ayuda)
     /enlace_privado alias_del_canal
     /mis_canales
