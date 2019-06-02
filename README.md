@@ -32,7 +32,7 @@ Las botoneras se publicarán a la vez, cada una en su grupo de canales correspon
 las visualizaciones requeridas pasará a la botonera número 1, en caso de perderlas pasará a la botonera 2. El cambio de 
 botonera se aplicará en la siguiente semana hábil en la cual se publique La Botonera.
 
-La franja horaria en la que estará publicada la botonera queda reflejado en el grupo que realiza la botonera. Suele ser en horario nocturno, tomando como referencia desde 21.00h (9:00 PM) hasta las 09:00h (9:00 AM) hora Española (GMT+1).
+La franja horaria en la que estará publicada la botonera queda reflejado en el grupo que realiza la botonera. Suele ser en horario nocturno, tomando como referencia desde 22.00h (10:00 PM) hasta las 09:00h (9:00 AM) hora Española (GMT+1).
 
 
 # Requisitos para unirse a la botonera
