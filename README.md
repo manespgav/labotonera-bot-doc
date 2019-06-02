@@ -55,9 +55,8 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 
 La creación o modificación y el registro del botón se realiza con la misma orden, la cual se debe enviar al grupo que organiza la botonera:
  ```
- /registrar_boton@labotonera_bot @alias_del_canal "texto_del_boton" = "https://t.me/nombre_del_canal"
+ /registrar_boton@labotonera_bot @alias_del_canal texto_del_boton
  ```
-Las comillas son obligatorias y los espacios hay que respetarlos.
 
 * alias_del_canal: Alias de nuestro canal. Respeta las mayúsculas y minúsculas del alias de tu canal. (CASE SENSITIVE). 
 * texto_del_boton: Texto que aparecerá dentro del botón cuando se publique.
@@ -99,6 +98,7 @@ Por ahora se han implementado los siguientes comandos:
     /muestra_botoneras
     /informe_vistas
     /update_vistas
+    /chan_stats
 ```
 
 
