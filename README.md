@@ -110,6 +110,7 @@ Por ahora se han implementado los siguientes comandos:
 1. Si has recibido un warn, deberás publicar la botonera de tu grupo durante una noche de un día que no sea la botonera. En caso contrario, no podrías participar en la siguiente botonera.
 1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
 1. El texto de los botones no debe ser engañoso, y debe reflejar el contenido del canal.
+1. No se podrán registrar canales en los que al menos uno de los administradores esté en la lista de baneo completo
 
 
 # F.A.Q (Preguntas y respuestas frecuentes)
