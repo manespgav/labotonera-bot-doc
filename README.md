@@ -112,7 +112,7 @@ Por ahora se han implementado los siguientes comandos:
 1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
 1. El texto de los botones no debe ser engañoso, y debe reflejar el contenido del canal.
 1. No se podrán registrar canales en los que al menos uno de los administradores esté en la lista de baneo completo
-
+1. Los grupos de la botonera no es un medio para contactar a otros miembros para organizar otras botoneras o enviarle spam. Esta acción será penalizada
 
 # F.A.Q (Preguntas y respuestas frecuentes)
 <b>Mi canal no aparece en la lista de botones. ¡Estoy haciendo publicidad gratis!</b>
