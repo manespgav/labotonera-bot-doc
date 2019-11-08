@@ -108,6 +108,7 @@ Por ahora se han implementado los siguientes comandos:
 1. No se puede eliminar la botonera de forma manual. Se asume que esta acción ha sido intencionada con el único objetivo de beneficiarse del resto de usuarios. Esta acción conlleva la **expulsión definitiva**.
 1. El administrador que registra el canal es responsable de coordinarse con el resto de admins.
 1. No se permite **COMPARTIR** el mensaje de la botonera en ningún canal o grupo. Si se detecta, **podría ser expulsado permanentemente**, al igual que no se permite hacer publicidad en grupos de SPAM o canales desde **dos horas** antes del comienzo hasta la finalización de la misma.
+1. Está prohibida la participación de canales que promocionen sorteos. El incumplimiento puede acarrear la expulsión permanente
 1. Si has recibido un warn, deberás publicar la botonera de tu grupo durante una noche de un día que no sea la botonera. En caso contrario, no podrías participar en la siguiente botonera.
 1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
 1. El texto de los botones no debe ser engañoso, y debe reflejar el contenido del canal.
