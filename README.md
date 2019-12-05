@@ -38,13 +38,15 @@ La franja horaria en la que estará publicada la botonera queda reflejado en el 
 # Requisitos para unirse a la botonera
 
 1. No se permite la participación de grupos, solo de canales.
-1. El canal debe tener al menos **100 suscriptores**, aunque podría variar en el tiempo y según que botonera. Otros requisitos especiales pueden ser solicitados en cada grupo que organiza la botonera.
+1. El canal debe tener al menos **300 suscriptores**, aunque podría variar en el tiempo y según que botonera.
+
+Nota: Pueden exigirse requisitos adicionales en determinadas botoneras (En estos casos, tendrán indicativos en el título y/o en  la descripción del grupo de esas botoneras.
 
 
 
 # ¿COMO UNO MI CANAL A LA BOTONERA?
 
-1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos: **Publicar mensajes, Añadir usuarios** y **Eliminar mensajes de otros** (Este último es opcional, pero en caso de bloqueo por publicación, el canal no será desbloqueado)
+1. Debemos añadir el bot @labotonera_bot como administrador del canal y dale los siguientes permisos: **Publicar mensajes, Añadir usuarios** y **Eliminar mensajes de otros** (Si surge algún problema por no tener alguno de estos permisos, el canal o el admin/admins podrán ser baneado(s) de las botoneras)
     
     ![Permisos necesarios](/media/permisos_labotonera_bot.png)
 
@@ -104,16 +106,19 @@ Por ahora se han implementado los siguientes comandos:
 
 # Normas Generales y penalizaciones
 
-1. No está permitida la publicación de ningún mensaje en el canal mientras dure visible **La Botonera**. En caso de producirse y detectarse se penalizará con un warn. Tres warn significarán la **expulsión definitiva** de **La Botonera**.
-1. No se puede eliminar la botonera de forma manual. Se asume que esta acción ha sido intencionada con el único objetivo de beneficiarse del resto de usuarios. Esta acción conlleva la **expulsión definitiva**.
-1. El administrador que registra el canal es responsable de coordinarse con el resto de admins.
+1. No está permitida la publicación de ningún mensaje en el canal mientras dure visible **La Botonera**. En caso de producirse por error, el bot lo borrará, y si no lo hiciese por falta de permisos, se penalizará al canal o al admin, pudiendo ser baneados de las botoneras.
+1. No se puede eliminar la botonera de forma manual. Se asume que esta acción ha sido intencionada.  Esta acción penalizará al canal o admin pudiendo ser baneados de las botoneras.
+1. El administrador que registra el canal es responsable de coordinarse con el resto de admins así que los errores de cualquier admin penalizarán al canal o admin que lo ha registrado (pudiendo ser baneados de las botoneras).
 1. No se permite **COMPARTIR** el mensaje de la botonera en ningún canal o grupo. Si se detecta, **podría ser expulsado permanentemente**, al igual que no se permite hacer publicidad en grupos de SPAM o canales desde **dos horas** antes del comienzo hasta la finalización de la misma.
-1. Está prohibida la participación de canales que promocionen sorteos. El incumplimiento puede acarrear la expulsión permanente
+1. Está prohibida la participación de canales que promocionen sorteos, excepto en grupos de botoneras habilitados a tal efecto. El incumplimiento puede acarrear la expulsión permanente.
 1. Si has recibido un warn, deberás publicar la botonera de tu grupo durante una noche de un día que no sea la botonera. En caso contrario, no podrías participar en la siguiente botonera.
-1. El texto de los botones no debe hacer apología a la pornografía, ni contenido para adultos.
 1. El texto de los botones no debe ser engañoso, y debe reflejar el contenido del canal.
 1. No se podrán registrar canales en los que al menos uno de los administradores esté en la lista de baneo completo
-1. Los grupos de la botonera no es un medio para contactar a otros miembros para puentes/botoneras o enviarle SPAM. Esta acción será penalizada
+1. Los grupos de la botonera no es un medio para contactar a otros miembros para puentes/botoneras o enviar SPAM. Cualquier usuario que contacte con otros participantes de la botonera podrá ser baneado de las botoneras.
+1. Las quejas o sugerencias deben enviarse al grupo de Soporte/Sugerencias LaBotonera:
+https://t.me/joinchat/AN7vk1j1DBhihv0dxYXhqQ
+Los usuarios que molesten a los administradores de los grupos con ese tipo de casos podrán ser baneados de todas las botoneras.
+La organización se reserva el derecho de admisión
 
 # F.A.Q (Preguntas y respuestas frecuentes)
 <b>Mi canal no aparece en la lista de botones. ¡Estoy haciendo publicidad gratis!</b>
